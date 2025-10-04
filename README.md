@@ -434,6 +434,3 @@ Remove temp WAVs and `history.json` if you don’t want to keep local artifacts.
 <img width="1200" height="775" alt="GHBanner" src="https://github.com/RP2-Capstone/Rp2InterviewCoach/blob/audio-interview/Audio_interview_pipeline_Flow%20Chart_1.png" />
 </div>
 
-
-## Demonstration
-[https://drive.google.com/file/d/1r_lvf1YhGznpPfJg4HCGF_Ch2X_WA_ZX/view?usp=drive_link]
